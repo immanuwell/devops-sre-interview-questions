@@ -1,11 +1,10 @@
 # Table of contents
 
-* [GitLab CI/CD — Essential Interview Cheat-Sheet](README.md)
+## Core DevOps tools overview
 
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [GitLab CI/CD](README.md)
+* [Docker & container runtimes](core-devops-tools-overview/quickstart.md)
+* [Publish your docs](core-devops-tools-overview/publish-your-docs.md)
 
 ## Basics
 
